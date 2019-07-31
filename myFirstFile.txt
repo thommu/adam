@@ -1,9 +1,0 @@
-Welcome to my first file.
-This doesnt contain any specific details in it.
-
-adding some more line here...
-
-This should be in a new branch... not master branch
-
-
-following data goes to new branch
