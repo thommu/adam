@@ -1,0 +1,49 @@
+
+/****** main container *********/
+.container{
+	border:1px solid #cecece;
+}
+
+/*class to format header section on the UI*/
+.app_head
+{
+	background-color: #7fb1bf;
+	font-weight: bold;
+	text-align: center;
+	font-size: 20px;
+	 width: 100%;
+}
+
+/*class to format normal buttons on the UI*/
+.grey_btn{
+	background-color: #7fb1bf;
+	color: black;
+	margin: 5px;
+	text-align: center;
+}
+/*class to format navigation buttons on the UI*/
+.nav_btn{
+	background-color: white;
+	color: #478afa;
+	margin: 5px;
+	text-align: center;
+}
+
+/*class to format error messages on the UI*/
+.error{
+	color: red;
+}
+/*class to format successful messages on the UI*/
+.success{
+	color: green;
+}
+
+/*General classes*/
+
+.right{
+	float: right;
+}
+
+.left{
+	float: left;
+}
